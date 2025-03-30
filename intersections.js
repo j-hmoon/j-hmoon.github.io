@@ -244,7 +244,7 @@ async function main() {
 
         textOverlay1 = setupText(canvas, "", 1);
         textOverlay2 = setupText(canvas, "", 2);
-        textOverlay3 = setupText(canvas, "", 3)
+        textOverlay3 = setupText(canvas, "", 3);
 
         setupMouseEvents();
 
